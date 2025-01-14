@@ -5,7 +5,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/matamv)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://venkymatam.medium.com/)
 
-Recent graduate from [Northeastern](https://northeastern.edu) with a Master's in Software Engineering. Currently fiddling with AI tools.
+Recent graduate from [Northeastern](https://northeastern.edu) with a Master's in Software Engineering.
 
 Prev.<br>
 Backend Software Engineer at [Siglens](https://siglens.com) <br>
