@@ -20,4 +20,4 @@ Software Development Intern at [Koch](https://kochinc.com)<br>
 - 💬 `ping` me about **software engineering**, **devops**, **AI**, and **startups**.
 
 
-[![Venky's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshamatam&hide=stars&hide_rank=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Venky's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshamatam&hide=stars&hide_rank=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
