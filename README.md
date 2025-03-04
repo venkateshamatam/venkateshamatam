@@ -19,5 +19,8 @@ Software Development Intern at [Koch](https://kochinc.com)<br>
 - 📝 I also (though not as often as I'd like) share my experiences and learnings on my [medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white) blog.
 - 💬 `ping` me about **software engineering**, **devops**, **AI**, and **startups**.
 
+<!-- 
+[![Venky's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshamatam&hide=stars&hide_rank=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
-[![Venky's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkateshamatam&hide=stars&hide_rank=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/venkateshamatam/stats)
